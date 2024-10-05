@@ -14,14 +14,26 @@
     <img src="https://skillicons.dev/icons?i=html,css" />
   </a>
 
-<h2>Dentro do site contém </h2>
+<h2>🧑‍💻 Autores</h2>
 <table>
   <tr>
-    <td align="left">
- <ul class="a">
-  <li>Planos e Cadastro de clientes, com verificação de usuário </li> 
-<li>Loja de suplementos online</li>
-     <li>Noticiário de notícias sobre o ramo fitness </li>
+    <td align="center">
+      <img src="https://github.com/beaxx.png" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 1"/>
+      <br /><a href="https://github.com/beaxx"><b>Beatriz Oliveira</b></a>
+      <br /><small>Desenvolvedora</small>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Gigiovh.png" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 2"/>
+      <br /><a href="https://github.com/Gigiovh"><b>Giovanna Clemente</b></a>
+      <br /><small>Desenvolvedora</small>
+    </td>
+    <td align="center">
+      <img src="https://github.com/neymarsd.png" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
+      <br /><a href="https://github.com/neymarsd"><b>Neymar Siqueira</b></a>
+      <br /><small>QA</small>
+    </td>
+  </tr>
+</table>
   
 </ul>
    <p>𝑬 𝒎𝒖𝒊𝒕𝒐 𝒎𝒂𝒊𝒔 ...</p>
