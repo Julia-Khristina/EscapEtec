@@ -30,22 +30,22 @@
     <td align="center">
       <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/julia.jpg" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
       <br /><a href="https://github.com/Julia-Khristina"><b>Julia Khristina</b></a>
-      <br /><small>Deseenvolvedora</small>
+      <br /><small>Desenvolvedora</small>
     </td>
      <td align="center">
       <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/julia.jpg" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
       <br /><a href="https://github.com/Julia-Khristina"><b>Laura Letícia</b></a>
-      <br /><small>Deseenvolvedora</small>
+      <br /><small>Desenvolvedora</small>
     </td>
      <td align="center">
       <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/julia.jpg" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
       <br /><a href="https://github.com/Julia-Khristina"><b>Lucas Ganan</b></a>
-      <br /><small>Deseenvolvedor</small>
+      <br /><small>Desenvolvedor</small>
     </td>
      <td align="center">
       <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/julia.jpg" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
       <br /><a href="https://github.com/Julia-Khristina"><b>Vinícius Pereira</b></a>
-      <br /><small>Deseenvolvedor</small>
+      <br /><small>Desenvolvedor</small>
     </td>
   </tr>
 </table>
