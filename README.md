@@ -18,7 +18,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/beaxx.png" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 1"/>
+      <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/12.png" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 1"/>
       <br /><a href="https://github.com/beaxx"><b>Hillary Medeiros</b></a>
       <br /><small>Desenvolvedora</small>
     </td>
