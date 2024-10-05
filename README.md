@@ -28,7 +28,7 @@
       <br /><small>Desenvolvedora</small>
     </td>
     <td align="center">
-      <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/julia.jpg" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
+      <img src="https://avatars.githubusercontent.com/u/132296366?v=4" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
       <br /><a href="https://github.com/Julia-Khristina"><b>Julia Khristina</b></a>
       <br /><small>Desenvolvedora</small>
     </td>
