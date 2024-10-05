@@ -19,7 +19,7 @@
   <tr>
     <td align="center">
       <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/12.png" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 1"/>
-      <br /><a href="#"><b>Hillary Medeiros</b></a>
+      <br /><a href="https://github.com/Hillary-Medeiros"><b>Hillary Medeiros</b></a>
       <br /><small>Desenvolvedora</small>
     </td>
     <td align="center">
@@ -34,17 +34,17 @@
     </td>
      <td align="center">
       <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/11.png" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
-      <br /><a href="#"><b>Laura Letícia</b></a>
+      <br /><a href="https://github.com/Lale-Araujo"><b>Laura Letícia</b></a>
       <br /><small>Desenvolvedora</small>
     </td>
      <td align="center">
       <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/9.jpg" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
-      <br /><a href="#"><b>Lucas Ganan</b></a>
+      <br /><a href="https://github.com/LucasGanan"><b>Lucas Ganan</b></a>
       <br /><small>Desenvolvedor</small>
     </td>
      <td align="center">
       <img src="https://github.com/Julia-Khristina/EscapEtec/blob/main/readme/8.jpg" width="100px;" style="border-radius:50%;" alt="Nome do Colaborador 3"/>
-      <br /><a href="#"><b>Vinícius Pereira</b></a>
+      <br /><a href="https://github.com/vinipera"><b>Vinícius Pereira</b></a>
       <br /><small>Desenvolvedor</small>
     </td>
   </tr>
